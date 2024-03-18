@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/110YfuwtzXGaaI/giphy.gif?cid=ecf05e47qby59kfejaane0n83iuoot9ku3hi4uauuwdkb2n8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
